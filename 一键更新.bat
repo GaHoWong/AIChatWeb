@@ -18,6 +18,6 @@ REM 创建提交
 git commit -m "%COMMIT_MESSAGE%"
 
 REM 推送到远程仓库
-git push -u origin "master"
+git push -u origin "main"
 
 endlocal
