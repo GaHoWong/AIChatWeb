@@ -1,3 +1,7 @@
+本项目基于[AIChatWeb](https://github.com/Nanjiren01/AIChatWeb)的基础上修改。
+
+**本项目不再支持在vercel上正常运行**
+
 <div align="center" style="margin-bottom: 10px;">
 <img src="./docs/images/icon.svg" alt="预览"/>
 
